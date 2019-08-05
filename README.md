@@ -1,21 +1,23 @@
 
 # Table of Contents
 
-1.  [Graduation Degree Plan](#org4e37520)
-    1.  [What is this project?](#org403dde2)
-    2.  [Why create this template?](#org624fd72)
-    3.  [What can I do with this template?](#org4834dbb)
-    4.  [How can I help?](#orgebbeed0)
-2.  [Todo](#org10668d3)
+1.  [Graduation Degree Plan](#org1f34a45)
+    1.  [What is this project?](#org9e420b6)
+    2.  [Why create this template?](#orga917a77)
+    3.  [What can I do with this template?](#org80e5ee0)
+    4.  [How can I help?](#orgf35cfe5)
+2.  [Todo](#org3232e1f)
 
 
 
-<a id="org4e37520"></a>
+<a id="org1f34a45"></a>
 
 # Graduation Degree Plan
 
+![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplanner.png)
 
-<a id="org403dde2"></a>
+
+<a id="org9e420b6"></a>
 
 ## What is this project?
 
@@ -25,7 +27,7 @@ requirements to graduate. So this template is meant to be a place to place all
 this information.
 
 
-<a id="org624fd72"></a>
+<a id="orga917a77"></a>
 
 ## Why create this template?
 
@@ -35,7 +37,7 @@ bit disorganized with my degree plan and for that reason I created this
 template.
 
 
-<a id="org4834dbb"></a>
+<a id="org80e5ee0"></a>
 
 ## What can I do with this template?
 
@@ -56,14 +58,14 @@ Templates:
     -   A template for any term paper you may write for a class.
 
 
-<a id="orgebbeed0"></a>
+<a id="orgf35cfe5"></a>
 
 ## How can I help?
 
 You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 
 
-<a id="org10668d3"></a>
+<a id="org3232e1f"></a>
 
 # Todo
 

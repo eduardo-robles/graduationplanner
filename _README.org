@@ -3,6 +3,7 @@
 #+AUTHOR: Eduardo Robles
 
 * Graduation Degree Plan
+[[https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplanner.png]]
 
 ** What is this project?
 The purpose of this project is to create a versatile "Graduation Degree Plan"
