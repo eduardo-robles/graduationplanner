@@ -41,7 +41,7 @@ You send a pull request! Or buy me a [[https://ko-fi.com/mrerwtc][coffee]]!
 - [X] Create Github repo
 - [X] Create README
 - [] Add ~license~
-- [] Add ~funding.yml~
+- [X] Add ~funding.yml~
 - [] Create "Capture Templates"
   - [] Notes
   - [] Proposed Course Schedule
