@@ -1,0 +1,7 @@
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+OPTIONS: num:nil toc:nil reveal_title_slide:nil
+#+REVEAL_TRANS: slide
+#+REVEAL_THEME: black
+#+TITLE: Presentation X Template
+#+AUTHOR: 
+#+EMAIL: 

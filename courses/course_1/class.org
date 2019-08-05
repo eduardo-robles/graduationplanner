@@ -1,0 +1,19 @@
+#+TITLE: Class X Template
+#+AUTHOR:
+#+EMAIL:
+#+OPTION:
+
+* Notes
+* Braindump
+* Research
+** Sources
+1. [[https://wikipedia.com][Wikipedia]]
+2. xyz
+** Annotations
+* Reading List
+** Books
+1. [[https://www.gutenberg.org/][Gutenberg]]
+** Articles
+1. [[https://collegeinfogeek.com/how-to-stay-organized-in-college/][How to Easily Stay Organized and Productive in College]]
+* Meetings
+* Projects

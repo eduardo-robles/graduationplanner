@@ -1,0 +1,148 @@
+#+TITLE: Degree Graduation Plan
+#+AUTHOR:
+#+OPTIONS:
+
+* ENTER TITLE OF PROGRAM
+
+* Degree Information
+** Website
+
+** Degree Plan
+
+** Program Chair
+
+
+* Important Dates
+*** Fall 20XX Semester
+August XX - December XX
+*** Spring 20XX Semester
+January XX - May XX
+*** Summer 20XX Semester
+June XX - August XX
+*** Fall 20XX Payment Deadline
+August XX, 20XX
+
+* Fall 20XX
+** Registration
+*** Proposed Course Schedule
+
+| Course Number |    CRN | Course Name           | Location | Instructor | Time               | Credit Hours |
+|---------------+--------+-----------------------+----------+------------+--------------------+--------------|
+| ABC 1000      | 123456 | Introduction to Emacs | RM 123   | Stallman   | xxxx               |            4 |
+|---------------+--------+-----------------------+----------+------------+--------------------+--------------|
+|               |        |                       |          |            | Total Credit Hours |            4 |
+#+TBLFM: $7=vsum(@2..@-1)
+
+
+*** Registered Course Schedule
+
+| Course Number |   CRN | Location | Instructor | Time               | Credit Hours |
+|---------------+-------+----------+------------+--------------------+--------------|
+| ABC 2000      | 98765 | Online   | Torvalds   | ONLINE             |            4 |
+|---------------+-------+----------+------------+--------------------+--------------|
+|               |       |          |            | Total Credit Hours |            4 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+*** Final Grades
+
+| Course Number | CRN | Course Name | Instructor | Grade              | Credit Hours |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            |                    |              |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            | Total Credit Hours |            0 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+** Course Work
+
+*** ABC 2000 Introduction to Git
+| Location | Instructor | Time |
+|----------+------------+------|
+| ONLINE   | TORVALDS   | xxx  |
+|          |            |      |
+
+** Financial Aid
+
+* Spring 20XX
+** Registration
+*** Proposed Course Schedule
+| Course Number | CRN | Course Name | Location | Instructor | Time               | Credit Hours |
+|---------------+-----+-------------+----------+------------+--------------------+--------------|
+|               |     |             |          |            |                    |              |
+|---------------+-----+-------------+----------+------------+--------------------+--------------|
+|               |     |             |          |            | Total Credit Hours |            0 |
+#+TBLFM: $7=vsum(@2..@-1)
+
+
+*** Registered Course Schedule
+| Course Number | CRN | Location | Instructor | Time               | Credit Hours |
+|---------------+-----+----------+------------+--------------------+--------------|
+|               |     |          |            |                    |              |
+|---------------+-----+----------+------------+--------------------+--------------|
+|               |     |          |            | Total Credit Hours |            0 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+
+*** Final Grades
+| Course Number | CRN | Course Name | Instructor | Grade              | Credit Hours |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            |                    |              |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            | Total Credit Hours |            0 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+
+** Course Work
+*** NAME OF COURSE
+| Location | Instructor | Time |
+|----------+------------+------|
+|          |            |      |
+
+** Financial Aid
+
+* Summer 20XX
+** Registration
+*** Proposed Course Schedule
+| Course Number | CRN | Course Name | Location | Instructor | Time               | Credit Hours |
+|---------------+-----+-------------+----------+------------+--------------------+--------------|
+|               |     |             |          |            |                    |              |
+|---------------+-----+-------------+----------+------------+--------------------+--------------|
+|               |     |             |          |            | Total Credit Hours |            0 |
+#+TBLFM: $7=vsum(@2..@-1)
+
+
+*** Registered Course Schedule
+| Course Number | CRN | Location | Instructor | Time               | Credit Hours |
+|---------------+-----+----------+------------+--------------------+--------------|
+|               |     |          |            |                    |              |
+|---------------+-----+----------+------------+--------------------+--------------|
+|               |     |          |            | Total Credit Hours |            0 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+*** Final Grades
+| Course Number | CRN | Course Name | Instructor | Grade              | Credit Hours |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            |                    |              |
+|---------------+-----+-------------+------------+--------------------+--------------|
+|               |     |             |            | Total Credit Hours |            0 |
+#+TBLFM: $6=vsum(@2..@-1)
+
+** Course Work
+*** NAME OF COURSE
+| Location | Instructor | Time |
+|----------+------------+------|
+|          |            |      |
+
+** Financial Aid
+
+* Books
+** Recommneded
+- Book X
+** Purchased
+- Book Z
+* Software
+** Recommended
+- App 1
+** Purchased
+- App 2
+** License
+- App 0: xxxx-xxxx-xxxx-xxxx

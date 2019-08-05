@@ -1,0 +1,4 @@
+#+TITLE: Paper X Template
+#+AUTHOR: 
+#+EMAIL: 
+#+OPTIONS:
