@@ -1,23 +1,23 @@
 
 # Table of Contents
 
-1.  [Graduation Degree Plan](#org30df8c9)
-    1.  [What is this project?](#org75f04cb)
-    2.  [Why create this template?](#org14c4944)
-    3.  [What can I do with this template?](#orgcdbc157)
-    4.  [How can I help?](#org0d19130)
-2.  [Todo](#orgc188815)
+1.  [Graduation Degree Plan](#org27c0aa7)
+    1.  [What is this project?](#org5fb5e86)
+    2.  [Why create this template?](#orgef374b1)
+    3.  [What can I do with this template?](#orge9fcfa6)
+    4.  [How can I help?](#orgeaa022a)
+2.  [Todo](#org5ffa75e)
 
 
 
-<a id="org30df8c9"></a>
+<a id="org27c0aa7"></a>
 
 # Graduation Degree Plan
 
-![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplanner.png)
+![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplannerV2.png)
 
 
-<a id="org75f04cb"></a>
+<a id="org5fb5e86"></a>
 
 ## What is this project?
 
@@ -27,7 +27,7 @@ requirements to graduate. So this template is meant to be a place to place all
 this information.
 
 
-<a id="org14c4944"></a>
+<a id="orgef374b1"></a>
 
 ## Why create this template?
 
@@ -37,7 +37,7 @@ bit disorganized with my degree plan and for that reason I created this
 template.
 
 
-<a id="orgcdbc157"></a>
+<a id="orge9fcfa6"></a>
 
 ## What can I do with this template?
 
@@ -58,14 +58,14 @@ Templates:
     -   A template for any term paper you may write for a class.
 
 
-<a id="org0d19130"></a>
+<a id="orgeaa022a"></a>
 
 ## How can I help?
 
 You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 
 
-<a id="orgc188815"></a>
+<a id="org5ffa75e"></a>
 
 # Todo
 
