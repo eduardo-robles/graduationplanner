@@ -4,6 +4,9 @@
 #+OPTION:
 
 * Notes
+:PROPERTIES:
+:EXPORT_FILE_NAME: classXnotes
+:END:
 * Braindump
 * Research
 ** Sources
@@ -16,4 +19,8 @@
 ** Articles
 1. [[https://collegeinfogeek.com/how-to-stay-organized-in-college/][How to Easily Stay Organized and Productive in College]]
 * Meetings
+** Minutes
+:PROPERTIES:
+:EXPORT_FILE_NAME: Meeting_X_Minutes
+:END:
 * Projects
