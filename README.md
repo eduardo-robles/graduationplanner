@@ -1,23 +1,26 @@
 
 # Table of Contents
 
-1.  [Graduation Degree Plan](#org27c0aa7)
-    1.  [What is this project?](#org5fb5e86)
-    2.  [Why create this template?](#orgef374b1)
-    3.  [What can I do with this template?](#orge9fcfa6)
-    4.  [How can I help?](#orgeaa022a)
-2.  [Todo](#org5ffa75e)
-
-
-
-<a id="org27c0aa7"></a>
-
-# Graduation Degree Plan
+1.  [Graduation Planner](#org9d25a5e)
+    1.  [What is this project?](#org8f61bee)
+    2.  [Why create this template?](#orga1389ac)
+    3.  [Getting Started](#org6f4e13b)
+    4.  [Installing](#orgfc7f26b)
+    5.  [What can I do with this template?](#org930a5f9)
+    6.  [How can I help?](#org8f55623)
+    7.  [Authors](#org984b8e5)
+    8.  [Acknowledgements](#org50cb00f)
+2.  [Todo](#org4558c3b)
 
 ![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplannerV2.png)
 
 
-<a id="org5fb5e86"></a>
+<a id="org9d25a5e"></a>
+
+# Graduation Planner
+
+
+<a id="org8f61bee"></a>
 
 ## What is this project?
 
@@ -27,7 +30,7 @@ requirements to graduate. So this template is meant to be a place to place all
 this information.
 
 
-<a id="orgef374b1"></a>
+<a id="orga1389ac"></a>
 
 ## Why create this template?
 
@@ -37,7 +40,40 @@ bit disorganized with my degree plan and for that reason I created this
 template.
 
 
-<a id="orge9fcfa6"></a>
+<a id="org6f4e13b"></a>
+
+## Getting Started
+
+These are the mininum requirements.
+
+-   `Emacs 25+`
+-   `Org-mode`
+
+Optional packages
+
+-   `pandoc`
+-   `texlive`
+-   `Reveal JS`
+
+
+<a id="orgfc7f26b"></a>
+
+## Installing
+
+Simply download the zip archive of this repository and unzip it to your local
+`emacs` environment.
+
+Setup your `org-mode` targets by either adding **Graduation Planner** to your
+`org-mode` setting or make **Graduation Planner** your `org-agenda`.
+
+-   Org Directory
+    `setq org-directory "/path/to/graduationplanner"`
+
+-   Org Agenda
+    `setq org-agenda-files ("/path/to/graduationplanner/school.org")`
+
+
+<a id="org930a5f9"></a>
 
 ## What can I do with this template?
 
@@ -58,20 +94,37 @@ Templates:
     -   A template for any term paper you may write for a class.
 
 
-<a id="orgeaa022a"></a>
+<a id="org8f55623"></a>
 
 ## How can I help?
 
 You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 
 
-<a id="org5ffa75e"></a>
+<a id="org984b8e5"></a>
+
+## Authors
+
+-   [@eduardo-robles](https://github.com/eduardo-robles)
+
+
+<a id="org50cb00f"></a>
+
+## Acknowledgements
+
+-   [/r/orgmode](https://reddit.com/r/orgmode)
+-   [/r/emacs](https://reddit.com/r/emacs)
+-   <https://matthieu.io/blog/2016/10/22/org-mode-phd/>
+
+
+<a id="org4558c3b"></a>
 
 # Todo
 
 -   [X] Create Github repo
 -   [X] Create README
 -   [] Add `license`
+-   [] Add `resume` template
 -   [X] Add `funding.yml`
 -   [] Create "Capture Templates"
     -   [] Notes
