@@ -1,26 +1,26 @@
 
 # Table of Contents
 
-1.  [Graduation Planner](#org9d25a5e)
-    1.  [What is this project?](#org8f61bee)
-    2.  [Why create this template?](#orga1389ac)
-    3.  [Getting Started](#org6f4e13b)
-    4.  [Installing](#orgfc7f26b)
-    5.  [What can I do with this template?](#org930a5f9)
-    6.  [How can I help?](#org8f55623)
-    7.  [Authors](#org984b8e5)
-    8.  [Acknowledgements](#org50cb00f)
-2.  [Todo](#org4558c3b)
+1.  [Graduation Planner](#org73ebef4)
+    1.  [What is this project?](#orga752e3e)
+    2.  [Why create this template?](#org894cebf)
+    3.  [Getting Started](#orgb838d7f)
+    4.  [Installing](#org693fce1)
+    5.  [What can I do with this template?](#org85ad858)
+    6.  [How can I help?](#org993bb5f)
+    7.  [Authors](#orgc7066ef)
+    8.  [Acknowledgements](#org803ffe1)
+2.  [Todo](#org0c1f18a)
 
 ![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplannerV2.png)
 
 
-<a id="org9d25a5e"></a>
+<a id="org73ebef4"></a>
 
 # Graduation Planner
 
 
-<a id="org8f61bee"></a>
+<a id="orga752e3e"></a>
 
 ## What is this project?
 
@@ -30,7 +30,7 @@ requirements to graduate. So this template is meant to be a place to place all
 this information.
 
 
-<a id="orga1389ac"></a>
+<a id="org894cebf"></a>
 
 ## Why create this template?
 
@@ -40,7 +40,7 @@ bit disorganized with my degree plan and for that reason I created this
 template.
 
 
-<a id="org6f4e13b"></a>
+<a id="orgb838d7f"></a>
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ Optional packages
 -   `Reveal JS`
 
 
-<a id="orgfc7f26b"></a>
+<a id="org693fce1"></a>
 
 ## Installing
 
@@ -73,7 +73,7 @@ Setup your `org-mode` targets by either adding **Graduation Planner** to your
     `setq org-agenda-files ("/path/to/graduationplanner/school.org")`
 
 
-<a id="org930a5f9"></a>
+<a id="org85ad858"></a>
 
 ## What can I do with this template?
 
@@ -93,22 +93,29 @@ Templates:
 4.  Paper.org
     -   A template for any term paper you may write for a class.
 
+Demo:
+*school.org*
+![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplanner_school.gif)
 
-<a id="org8f55623"></a>
+*class.org*
+![img](https://raw.githubusercontent.com/eduardo-robles/graduationplanner/master/graduationplanner_class.gif)
+
+
+<a id="org993bb5f"></a>
 
 ## How can I help?
 
 You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 
 
-<a id="org984b8e5"></a>
+<a id="orgc7066ef"></a>
 
 ## Authors
 
 -   [@eduardo-robles](https://github.com/eduardo-robles)
 
 
-<a id="org50cb00f"></a>
+<a id="org803ffe1"></a>
 
 ## Acknowledgements
 
@@ -117,7 +124,7 @@ You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 -   <https://matthieu.io/blog/2016/10/22/org-mode-phd/>
 
 
-<a id="org4558c3b"></a>
+<a id="org0c1f18a"></a>
 
 # Todo
 
