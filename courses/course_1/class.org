@@ -7,7 +7,16 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: classXnotes
 :END:
+
+This is a paragraph in my notes.
+** Subheadline
+- List 1
+- List 2
+
+
 * Braindump
+Remember that 2+2=4.
+
 * Research
 ** Sources
 1. [[https://wikipedia.com][Wikipedia]]
@@ -23,4 +32,10 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: Meeting_X_Minutes
 :END:
+
+** Group Meeting 1
+DEADLINE: <2019-09-01 Sun>
+
 * Projects
+** Super Awesome Project
+DEADLINE: <2019-09-30 Mon>
