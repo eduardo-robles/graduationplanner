@@ -1,7 +1,24 @@
-#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
-#+OPTIONS: num:nil toc:nil reveal_title_slide:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_EXTRA_CSS: css/talk.css
+#+OPTIONS: num:nil toc:nil
 #+REVEAL_TRANS: slide
 #+REVEAL_THEME: black
-#+TITLE: Presentation X Template
-#+AUTHOR: 
-#+EMAIL: 
+#+TITLE: Graduation Planner Talk
+#+AUTHOR: Your Name
+#+EMAIL: email@email.com
+
+* Slide 1
+Slide information goes here, insert any Org formatting.
+
+
+#+BEGIN_NOTES
+Slide notes are added like so.
+#+END_NOTES
+
+** Slide 1.1
+This slide is a sub slide of the above one
+
+* Slide 2
+If you would like to learn more see the ~org-reveal~ project github
+
+https://github.com/yjwen/org-reveal/
