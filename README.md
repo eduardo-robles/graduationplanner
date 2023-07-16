@@ -104,7 +104,17 @@ Demo:
 
 ## How can I help?
 
-You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
+You send a pull request!
+
+## Contributions
+
+1.  You can Buy Me A Coffee
+
+    [![img](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/eduardorobles)
+
+2.  Tip with some Sats
+
+    [Tip Some Sats ⚡](https://getalby.com/p/tacosandlinux)
 
 
 <a id="orgc7066ef"></a>
