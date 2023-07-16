@@ -60,8 +60,7 @@ Optional packages
 
 ## Installing
 
-Simply download the zip archive of this repository and unzip it to your local
-`emacs` environment.
+Simply download the zip archive of this repository and unzip it to your local filesystem.
 
 Setup your `org-mode` targets by either adding **Graduation Planner** to your
 `org-mode` setting or make **Graduation Planner** your `org-agenda`.
@@ -130,14 +129,13 @@ You send a pull request! Or buy me a [coffee](https://ko-fi.com/mrerwtc)!
 
 -   [X] Create Github repo
 -   [X] Create README
--   [] Add `license`
--   [] Add `resume` template
+-   [ ] Add `license`
+-   [ ] Add `resume` template
 -   [X] Add `funding.yml`
--   [] Create "Capture Templates"
-    -   [] Notes
-    -   [] Proposed Course Schedule
-    -   [] Registered Course Schedule
-    -   [] Final Grades
--   [] Create a CSS template for `talks`
--   [] Add image examples to `talks` and `papers`.
-
+-   [ ] Create "Capture Templates"
+    -   [ ] Notes
+    -   [ ] Proposed Course Schedule
+    -   [ ] Registered Course Schedule
+    -   [ ] Final Grades
+-   [ ] Create a CSS template for `talks`
+-   [ ] Add image examples to `talks` and `papers`.
